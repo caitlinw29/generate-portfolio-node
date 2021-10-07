@@ -1,0 +1,22 @@
+{
+  "name": "html-portfolio",
+  "version": "1.0.0",
+  "description": "This application will take user input from the command line and make a responsive html portfolio page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caitlinw29/generate-portfolio-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caitlinw29/generate-portfolio-node/issues"
+  },
+  "homepage": "https://github.com/caitlinw29/generate-portfolio-node#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
